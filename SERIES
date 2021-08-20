@@ -10,6 +10,18 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LANCAMENTOS[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/MSRWZw2/LANCAMENTOS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-LEIA/main/LANCAMENTOS</externallink>
+<fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart><info> 
+
+[COLOR blue]|[/COLOR]- OS MELHORES LANCAMENTOS -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]5X COMEDIA[/COLOR]</name>
 <thumbnail>https://seriesemcena.com.br/wp-content/uploads/2021/03/IF_Amazon_Kv_Gregorio_Duvivier_Vertical-scaled.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-LEIA/master/5X-COMEDIA</externallink>
